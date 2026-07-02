@@ -1,6 +1,6 @@
 # AI 4 Africa Workshop Starter Repo: Group 5
 <<<<<<< HEAD
-#Hey this is Alberts message 
+# Hey this is Alberts message 
 >>>>>>> 4ed86bddda0c54d455899efd688a89fad2844f8d
 =======
 # Hey this is Alberts message 
