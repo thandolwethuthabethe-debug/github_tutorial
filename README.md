@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AI 4 Africa Workshop Starter Repo: Group 5 we will win this
-=======
 # AI 4 Africa Workshop Starter Repo: Group 5
 <<<<<<< HEAD
 #Hey this is Alberts message 
